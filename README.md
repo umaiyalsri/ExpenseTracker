@@ -17,4 +17,4 @@ A Spring Boot Expense Tracker application for managing and tracking expenses.
 - HTML/CSS
 
 ## Live Demo
-YOUR_REPLIT_LINK
+(https://b933f3e8-8567-4807-97e5-17c5c672c6fb-00-s9yp8lmyd7w5.pike.repl.co/)
